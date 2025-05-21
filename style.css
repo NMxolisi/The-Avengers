@@ -22,3 +22,10 @@
 #menu a :hover{
     color: brown;
 }
+
+h4{
+    color: forestgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: large;
+}
